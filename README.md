@@ -7,41 +7,45 @@ https://nmicht.github.io/slides-desarrollo-colaborativo/
 
 ## Índice
 <ol>
-  <li>¿Qué es el desarrollo colaborativo?</li>
+  <li><a href="https://github.com/nmicht/slides-desarrollo-colaborativo/#/desarrollo-colaborativo">¿Qué es el desarrollo colaborativo?</a></li>
   <ul>
-    <li>Definición</li>
-    <li>Orígenes</li>
+    <li><a href="https://github.com/nmicht/slides-desarrollo-colaborativo/#/definicion">Definición</a></li>
+    <li><a href="https://github.com/nmicht/slides-desarrollo-colaborativo/#/origenes">Orígenes</a></li>
   </ul>
-  <li>¿Qué es el software libre?</li>
+  <li><a href="https://github.com/nmicht/slides-desarrollo-colaborativo/#/software-libre">¿Qué es el software libre?</a></li>
   <ul>
-    <li>Libertades</li>
-    <li>La catedral y el bazar</li>
-    <li>Desarrollo colaborativo en el software libre</li>
+    <li><a href="https://github.com/nmicht/slides-desarrollo-colaborativo/#/libertades">Libertades</a></li>
+    <li><a href="https://github.com/nmicht/slides-desarrollo-colaborativo/#/desarrollo-colaborativo-sl">Desarrollo colaborativo en el software libre</a></li>
+    <li><a href="https://github.com/nmicht/slides-desarrollo-colaborativo/#/catedral-bazar">La catedral y el bazar</a></li>
   </ul>
-  <li>Desarrollo de software colaborativo como modelo de negocios</li>
+  <li><a href="https://github.com/nmicht/slides-desarrollo-colaborativo/#/modelo-negocios">Desarrollo de software colaborativo como modelo de negocios</a></li>
   <ul>
-    <li>Proceso de colaboración entre el consumidor y el desarrollador</li>
-    <li>Aplicación en la tecnología web</li>
+    <li><a href="https://github.com/nmicht/slides-desarrollo-colaborativo/#/colaboracion">Proceso de colaboración entre el consumidor y el desarrollador</a></li>
+    <li><a href="https://github.com/nmicht/slides-desarrollo-colaborativo/#/tecnologia">Aplicación en la tecnología web</a></li>
   </ul>
-  <li>Características del desarrollo colaborativo</li>
-  <li>Diferencias entre Desarrollo Ágil y Desarrollo Colaborativo</li>
+  <li><a href="https://github.com/nmicht/slides-desarrollo-colaborativo/#/caracteristicas">Características del desarrollo colaborativo</a></li>
+  <li><a href="https://github.com/nmicht/slides-desarrollo-colaborativo/#/diferencias">Diferencias entre Desarrollo Ágil y Desarrollo Colaborativo</a></li>
   <ul>
-    <li>Desarrollo Ágil</li>
-    <li>Centrado en los desarrolladores o centrado en el usuario</li>
+    <li><a href="https://github.com/nmicht/slides-desarrollo-colaborativo/#/agile">Desarrollo Ágil</a></li>
+    <li><a href="https://github.com/nmicht/slides-desarrollo-colaborativo/#/diferencias2">Centrado en los desarrolladores o centrado en el usuario</a></li>
   </ul>
-  <li>Metodologías para el desarrollo colaborativo</li>
+  <li><a href="https://github.com/nmicht/slides-desarrollo-colaborativo/#/metodologias">Metodologías para el desarrollo colaborativo</a></li>
   <ul>
-    <li>eXtreme Programming</li>
+    <li><a href="https://github.com/nmicht/slides-desarrollo-colaborativo/#/extreme">eXtreme Programming</a></li>
   </ul>
-  <li>Peer review</li>
+  <li><a href="https://github.com/nmicht/slides-desarrollo-colaborativo/#/peer-review">Peer review</a></li>
   <ul>
-    <li>Ley de Linus</li>
+    <li><a href="ley-linus">Ley de Linus</a></li>
   </ul>
-  <li>Involucrando a los usuarios</li>
+  <li><a href="https://github.com/nmicht/slides-desarrollo-colaborativo/#/users">Involucrando a los usuarios</a></li>
   <ul>
-    <li>Roles de usuarios</li>
+    <li><a href="https://github.com/nmicht/slides-desarrollo-colaborativo/#/roles">Roles de usuarios</a></li>
   </ul>
-  <li>Herramientas de comunicación</li>
+  <li><a href="https://github.com/nmicht/slides-desarrollo-colaborativo/#/herramientas">Herramientas de comunicación</a></li>
+  <ul>
+    <li><a href="https://github.com/nmicht/slides-desarrollo-colaborativo/#/mecanismos">Mecanimos básicos de comunicación</a></li>
+    <li><a href="https://github.com/nmicht/slides-desarrollo-colaborativo/#/otras-herramientas">Otras herramientas</a></li>
+  </ul>
 </ol>
 
 
