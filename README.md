@@ -53,9 +53,10 @@ https://nmicht.github.io/slides-desarrollo-colaborativo/
 
 * TBD
 
-## :bowtie: Contribuidores
+## :bowtie: Colaboradores
 
 * [@nmicht](https://github.com/nmicht)
+* [@joserojas](https://github.com/joserojas)
 
 ## Licencia
 
