@@ -1,14 +1,23 @@
 # Desarrollo Colaborativo
 
+Maestría en Desarrollo Web  
 Metodología para el Desarrollo Colaborativo  
-Maestría en Desarrollo Web
+
 https://nmicht.github.io/slides-desarrollo-colaborativo/
 
 ## Índice
-- TBD
+1. ¿Qué es el desarrollo colaborativo?
+ 1. Orígenes
+ 1. Tipos de proyectos que usan desarrollo colaborativo
+1. ¿Qué es el software libre?
+ 1. Cuatro libertades del software libre
+ 1. Desarrollo colaborativo en el software libre
+1. Revisión de Pares
+ 1. Ley de Linus
+
 
 ## :book: Otros recursos
-- TBD
+- <a href="http://www.catb.org/esr/writings/cathedral-bazaar/">The Cathedral and the Bazaar</a>
 
 ## :v: Gracias por las recomendaciones
 
